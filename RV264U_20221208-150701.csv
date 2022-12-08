@@ -1,0 +1,318 @@
+﻿"RV264U: MARRIAGES by Year, Type of settlement region, Place of residence of groom and Month of contracting the marriage"
+
+"Year","Type of settlement region","Place of residence of groom","Months total","January","February","March","April","May","June","July","August","September","October","November","December"
+"2017","Total","Total",6447,284,318,370,352,473,625,1266,1022,623,410,325,379
+"2017","Total","Place of residence unknown",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2017","Total","Place of residence outside of Estonia",404,25,26,26,22,37,27,52,58,37,33,24,37
+"2017","Total","Place of residence in Estonia",6043,259,292,344,330,436,598,1214,964,586,377,301,342
+"2017","Total","Harju county",3176,138,169,196,186,235,328,586,529,319,193,139,158
+"2017","Total","..Tallinn",2409,111,131,154,152,174,250,423,405,244,144,109,112
+"2017","Total","Hiiu county",29,1,1,0,0,4,2,6,6,6,2,0,1
+"2017","Total","Ida-Viru county",677,25,34,32,50,34,63,132,84,65,54,55,49
+"2017","Total","Jõgeva county",92,3,6,3,2,2,15,22,15,6,7,9,2
+"2017","Total","Järva county",97,4,5,7,3,7,9,16,16,10,6,6,8
+"2017","Total","Lääne county",80,3,7,2,5,6,7,17,15,7,4,3,4
+"2017","Total","Lääne-Viru county",203,8,11,6,8,17,20,56,26,11,13,13,14
+"2017","Total","Põlva county",79,3,1,7,5,2,3,17,12,6,5,5,13
+"2017","Total","Pärnu county",301,12,9,20,11,23,25,71,57,21,18,16,18
+"2017","Total","Rapla county",147,9,4,7,5,13,5,33,22,16,14,11,8
+"2017","Total","Saare county",131,8,7,5,6,11,11,34,20,10,8,5,6
+"2017","Total","Tartu county",668,26,29,35,36,51,74,147,114,78,33,21,24
+"2017","Total","Valga county",100,4,3,6,5,13,12,13,14,10,3,7,10
+"2017","Total","Viljandi county",139,12,5,9,1,10,11,32,17,11,10,9,12
+"2017","Total","Võru county",122,3,1,9,6,8,13,32,17,9,7,2,15
+"2017","Total","Place of residence in Estonia unknown",2,0,0,0,1,0,0,0,0,1,0,0,0
+"2017","City and town settlement region","Total",4493,190,230,267,267,320,440,860,723,460,276,226,234
+"2017","City and town settlement region","Place of residence unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2017","City and town settlement region","Place of residence outside of Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2017","City and town settlement region","Place of residence in Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2017","City and town settlement region","Harju county",2855,127,155,185,173,210,289,517,479,287,173,124,136
+"2017","City and town settlement region","..Tallinn",2409,111,131,154,152,174,250,423,405,244,144,109,112
+"2017","City and town settlement region","Hiiu county",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2017","City and town settlement region","Ida-Viru county",582,23,30,29,44,27,53,105,73,62,45,49,42
+"2017","City and town settlement region","Jõgeva county",17,0,0,1,1,1,1,7,3,0,2,1,0
+"2017","City and town settlement region","Järva county",45,1,3,3,2,5,5,7,6,3,3,5,2
+"2017","City and town settlement region","Lääne county",30,1,2,0,1,3,3,7,4,4,2,2,1
+"2017","City and town settlement region","Lääne-Viru county",76,2,6,1,3,7,6,18,12,6,6,3,6
+"2017","City and town settlement region","Põlva county",18,0,0,0,1,0,0,4,6,0,1,2,4
+"2017","City and town settlement region","Pärnu county",187,8,6,12,7,15,13,44,34,17,11,10,10
+"2017","City and town settlement region","Rapla county",24,0,0,1,0,3,0,4,6,2,3,4,1
+"2017","City and town settlement region","Saare county",44,1,4,0,2,2,2,12,6,7,2,3,3
+"2017","City and town settlement region","Tartu county",475,20,22,27,24,32,56,106,75,61,22,13,17
+"2017","City and town settlement region","Valga county",40,2,0,2,4,7,3,5,9,3,1,3,1
+"2017","City and town settlement region","Viljandi county",52,3,1,3,1,6,3,16,3,5,1,5,5
+"2017","City and town settlement region","Võru county",48,2,1,3,4,2,6,8,7,3,4,2,6
+"2017","City and town settlement region","Place of residence in Estonia unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2017","Rural settlement region","Total",1548,69,62,77,62,116,158,354,241,125,101,75,108
+"2017","Rural settlement region","Place of residence unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2017","Rural settlement region","Place of residence outside of Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2017","Rural settlement region","Place of residence in Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2017","Rural settlement region","Harju county",321,11,14,11,13,25,39,69,50,32,20,15,22
+"2017","Rural settlement region","..Tallinn",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2017","Rural settlement region","Hiiu county",29,1,1,0,0,4,2,6,6,6,2,0,1
+"2017","Rural settlement region","Ida-Viru county",95,2,4,3,6,7,10,27,11,3,9,6,7
+"2017","Rural settlement region","Jõgeva county",75,3,6,2,1,1,14,15,12,6,5,8,2
+"2017","Rural settlement region","Järva county",52,3,2,4,1,2,4,9,10,7,3,1,6
+"2017","Rural settlement region","Lääne county",50,2,5,2,4,3,4,10,11,3,2,1,3
+"2017","Rural settlement region","Lääne-Viru county",127,6,5,5,5,10,14,38,14,5,7,10,8
+"2017","Rural settlement region","Põlva county",61,3,1,7,4,2,3,13,6,6,4,3,9
+"2017","Rural settlement region","Pärnu county",114,4,3,8,4,8,12,27,23,4,7,6,8
+"2017","Rural settlement region","Rapla county",123,9,4,6,5,10,5,29,16,14,11,7,7
+"2017","Rural settlement region","Saare county",87,7,3,5,4,9,9,22,14,3,6,2,3
+"2017","Rural settlement region","Tartu county",193,6,7,8,12,19,18,41,39,17,11,8,7
+"2017","Rural settlement region","Valga county",60,2,3,4,1,6,9,8,5,7,2,4,9
+"2017","Rural settlement region","Viljandi county",87,9,4,6,0,4,8,16,14,6,9,4,7
+"2017","Rural settlement region","Võru county",74,1,0,6,2,6,7,24,10,6,3,0,9
+"2017","Rural settlement region","Place of residence in Estonia unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2018","Total","Total",6573,292,310,298,382,474,709,978,1340,501,434,418,437
+"2018","Total","Place of residence unknown",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2018","Total","Place of residence outside of Estonia",478,23,17,31,39,35,38,55,73,41,30,49,47
+"2018","Total","Place of residence in Estonia",6095,269,293,267,343,439,671,923,1267,460,404,369,390
+"2018","Total","Harju county",3170,160,163,140,199,232,328,478,638,224,207,204,197
+"2018","Total","..Tallinn",2398,121,126,109,157,170,249,362,478,161,151,160,154
+"2018","Total","Hiiu county",39,3,0,0,0,3,5,8,10,2,4,3,1
+"2018","Total","Ida-Viru county",661,36,39,32,49,38,81,80,100,66,52,41,47
+"2018","Total","Jõgeva county",112,2,5,3,5,4,17,19,24,12,7,6,8
+"2018","Total","Järva county",111,6,4,6,5,8,14,19,26,3,5,6,9
+"2018","Total","Lääne county",67,3,4,2,6,3,11,7,17,5,3,1,5
+"2018","Total","Lääne-Viru county",225,6,9,19,5,13,25,49,41,15,14,12,17
+"2018","Total","Põlva county",84,1,1,6,4,5,7,15,20,12,4,5,4
+"2018","Total","Pärnu county",341,16,14,11,17,33,39,46,83,25,18,21,18
+"2018","Total","Rapla county",135,4,4,8,2,9,14,23,29,17,7,9,9
+"2018","Total","Saare county",138,4,9,5,4,11,16,18,32,14,11,6,8
+"2018","Total","Tartu county",664,18,28,25,35,45,71,110,155,49,43,40,45
+"2018","Total","Valga county",93,4,4,3,4,11,11,9,26,4,5,6,6
+"2018","Total","Viljandi county",123,5,3,1,4,12,17,21,30,5,12,4,9
+"2018","Total","Võru county",128,1,5,6,4,12,15,20,35,6,12,5,7
+"2018","Total","Place of residence in Estonia unknown",4,0,1,0,0,0,0,1,1,1,0,0,0
+"2018","City and town settlement region","Total",4456,208,223,195,275,324,488,657,900,324,293,279,290
+"2018","City and town settlement region","Place of residence unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2018","City and town settlement region","Place of residence outside of Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2018","City and town settlement region","Place of residence in Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2018","City and town settlement region","Harju county",2853,141,147,127,182,208,298,439,572,194,185,183,177
+"2018","City and town settlement region","..Tallinn",2398,121,126,109,157,170,249,362,478,161,151,160,154
+"2018","City and town settlement region","Hiiu county",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2018","City and town settlement region","Ida-Viru county",558,29,33,28,41,32,65,71,81,57,45,34,42
+"2018","City and town settlement region","Jõgeva county",20,1,0,0,1,1,6,3,4,0,2,1,1
+"2018","City and town settlement region","Järva county",43,2,1,6,2,1,5,4,11,2,2,4,3
+"2018","City and town settlement region","Lääne county",29,2,2,1,2,1,4,4,8,3,0,0,2
+"2018","City and town settlement region","Lääne-Viru county",70,3,5,4,2,5,11,17,10,4,2,4,3
+"2018","City and town settlement region","Põlva county",23,0,0,3,1,1,1,2,6,3,2,0,4
+"2018","City and town settlement region","Pärnu county",190,11,7,6,11,16,22,22,50,12,10,13,10
+"2018","City and town settlement region","Rapla county",25,1,2,1,0,3,4,0,8,4,0,1,1
+"2018","City and town settlement region","Saare county",47,2,1,1,2,5,6,6,9,6,2,2,5
+"2018","City and town settlement region","Tartu county",463,14,18,16,26,31,51,74,108,33,32,28,32
+"2018","City and town settlement region","Valga county",40,0,2,1,2,4,6,3,12,1,3,3,3
+"2018","City and town settlement region","Viljandi county",46,2,2,0,1,9,4,7,10,2,3,3,3
+"2018","City and town settlement region","Võru county",49,0,3,1,2,7,5,5,11,3,5,3,4
+"2018","City and town settlement region","Place of residence in Estonia unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2018","Rural settlement region","Total",1635,61,69,72,68,115,183,265,366,135,111,90,100
+"2018","Rural settlement region","Place of residence unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2018","Rural settlement region","Place of residence outside of Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2018","Rural settlement region","Place of residence in Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2018","Rural settlement region","Harju county",317,19,16,13,17,24,30,39,66,30,22,21,20
+"2018","Rural settlement region","..Tallinn",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2018","Rural settlement region","Hiiu county",39,3,0,0,0,3,5,8,10,2,4,3,1
+"2018","Rural settlement region","Ida-Viru county",103,7,6,4,8,6,16,9,19,9,7,7,5
+"2018","Rural settlement region","Jõgeva county",92,1,5,3,4,3,11,16,20,12,5,5,7
+"2018","Rural settlement region","Järva county",68,4,3,0,3,7,9,15,15,1,3,2,6
+"2018","Rural settlement region","Lääne county",38,1,2,1,4,2,7,3,9,2,3,1,3
+"2018","Rural settlement region","Lääne-Viru county",155,3,4,15,3,8,14,32,31,11,12,8,14
+"2018","Rural settlement region","Põlva county",61,1,1,3,3,4,6,13,14,9,2,5,0
+"2018","Rural settlement region","Pärnu county",151,5,7,5,6,17,17,24,33,13,8,8,8
+"2018","Rural settlement region","Rapla county",110,3,2,7,2,6,10,23,21,13,7,8,8
+"2018","Rural settlement region","Saare county",91,2,8,4,2,6,10,12,23,8,9,4,3
+"2018","Rural settlement region","Tartu county",201,4,10,9,9,14,20,36,47,16,11,12,13
+"2018","Rural settlement region","Valga county",53,4,2,2,2,7,5,6,14,3,2,3,3
+"2018","Rural settlement region","Viljandi county",77,3,1,1,3,3,13,14,20,3,9,1,6
+"2018","Rural settlement region","Võru county",79,1,2,5,2,5,10,15,24,3,7,2,3
+"2018","Rural settlement region","Place of residence in Estonia unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2019","Total","Total",6701,333,339,394,408,594,742,956,1043,655,479,391,367
+"2019","Total","Place of residence unknown",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2019","Total","Place of residence outside of Estonia",497,32,25,24,29,33,53,60,61,43,45,53,39
+"2019","Total","Place of residence in Estonia",6204,301,314,370,379,561,689,896,982,612,434,338,328
+"2019","Total","Harju county",3343,178,193,193,211,282,393,426,521,359,239,187,161
+"2019","Total","..Tallinn",2492,141,140,146,164,203,297,277,380,279,184,150,131
+"2019","Total","Hiiu county",44,2,2,3,4,4,4,7,5,4,2,3,4
+"2019","Total","Ida-Viru county",684,31,40,51,47,40,79,90,92,60,62,46,46
+"2019","Total","Jõgeva county",104,6,1,3,5,12,10,18,14,12,6,7,10
+"2019","Total","Järva county",96,4,3,4,5,13,11,27,9,5,7,5,3
+"2019","Total","Lääne county",81,1,4,5,2,8,10,14,13,4,6,4,10
+"2019","Total","Lääne-Viru county",219,10,13,20,15,27,24,33,33,11,21,5,7
+"2019","Total","Põlva county",99,4,4,7,10,9,8,20,13,6,8,4,6
+"2019","Total","Pärnu county",301,14,13,17,16,35,29,45,55,28,18,19,12
+"2019","Total","Rapla county",125,6,4,14,9,12,8,25,20,8,8,9,2
+"2019","Total","Saare county",122,5,5,2,5,14,15,21,24,14,5,6,6
+"2019","Total","Tartu county",594,24,23,31,28,62,67,105,110,68,25,21,30
+"2019","Total","Valga county",108,7,3,7,11,6,8,11,19,14,5,4,13
+"2019","Total","Viljandi county",160,4,3,6,7,22,11,31,31,12,12,11,10
+"2019","Total","Võru county",120,5,3,6,4,14,12,23,22,7,10,6,8
+"2019","Total","Place of residence in Estonia unknown",4,0,0,1,0,1,0,0,1,0,0,1,0
+"2019","City and town settlement region","Total",4500,237,244,265,285,389,518,594,714,448,314,259,233
+"2019","City and town settlement region","Place of residence unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2019","City and town settlement region","Place of residence outside of Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2019","City and town settlement region","Place of residence in Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2019","City and town settlement region","Harju county",2979,165,168,170,194,251,354,357,461,323,220,172,144
+"2019","City and town settlement region","..Tallinn",2492,141,140,146,164,203,297,277,380,279,184,150,131
+"2019","City and town settlement region","Hiiu county",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2019","City and town settlement region","Ida-Viru county",564,30,36,41,39,30,70,68,75,47,47,41,40
+"2019","City and town settlement region","Jõgeva county",15,1,0,0,1,3,0,4,2,2,0,1,1
+"2019","City and town settlement region","Järva county",42,2,2,3,4,5,4,10,3,2,4,2,1
+"2019","City and town settlement region","Lääne county",36,0,1,2,0,4,6,4,5,1,4,2,7
+"2019","City and town settlement region","Lääne-Viru county",81,3,6,8,8,7,6,18,9,5,6,4,1
+"2019","City and town settlement region","Põlva county",17,1,0,0,1,4,0,6,3,0,1,1,0
+"2019","City and town settlement region","Pärnu county",151,9,8,12,6,18,13,23,27,14,5,9,7
+"2019","City and town settlement region","Rapla county",21,0,0,2,1,3,2,6,4,1,0,2,0
+"2019","City and town settlement region","Saare county",39,2,1,0,0,5,4,9,9,3,2,3,1
+"2019","City and town settlement region","Tartu county",418,16,20,22,23,46,46,66,88,39,20,15,17
+"2019","City and town settlement region","Valga county",43,2,1,2,4,0,4,7,8,4,2,2,7
+"2019","City and town settlement region","Viljandi county",58,2,0,2,2,10,4,10,12,5,3,5,3
+"2019","City and town settlement region","Võru county",36,4,1,1,2,3,5,6,8,2,0,0,4
+"2019","City and town settlement region","Place of residence in Estonia unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2019","Rural settlement region","Total",1700,64,70,104,94,171,171,302,267,164,120,78,95
+"2019","Rural settlement region","Place of residence unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2019","Rural settlement region","Place of residence outside of Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2019","Rural settlement region","Place of residence in Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2019","Rural settlement region","Harju county",364,13,25,23,17,31,39,69,60,36,19,15,17
+"2019","Rural settlement region","..Tallinn",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2019","Rural settlement region","Hiiu county",44,2,2,3,4,4,4,7,5,4,2,3,4
+"2019","Rural settlement region","Ida-Viru county",120,1,4,10,8,10,9,22,17,13,15,5,6
+"2019","Rural settlement region","Jõgeva county",89,5,1,3,4,9,10,14,12,10,6,6,9
+"2019","Rural settlement region","Järva county",54,2,1,1,1,8,7,17,6,3,3,3,2
+"2019","Rural settlement region","Lääne county",45,1,3,3,2,4,4,10,8,3,2,2,3
+"2019","Rural settlement region","Lääne-Viru county",138,7,7,12,7,20,18,15,24,6,15,1,6
+"2019","Rural settlement region","Põlva county",82,3,4,7,9,5,8,14,10,6,7,3,6
+"2019","Rural settlement region","Pärnu county",150,5,5,5,10,17,16,22,28,14,13,10,5
+"2019","Rural settlement region","Rapla county",104,6,4,12,8,9,6,19,16,7,8,7,2
+"2019","Rural settlement region","Saare county",83,3,4,2,5,9,11,12,15,11,3,3,5
+"2019","Rural settlement region","Tartu county",176,8,3,9,5,16,21,39,22,29,5,6,13
+"2019","Rural settlement region","Valga county",65,5,2,5,7,6,4,4,11,10,3,2,6
+"2019","Rural settlement region","Viljandi county",102,2,3,4,5,12,7,21,19,7,9,6,7
+"2019","Rural settlement region","Võru county",84,1,2,5,2,11,7,17,14,5,10,6,4
+"2019","Rural settlement region","Place of residence in Estonia unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2020","Total","Total",6093,319,590,306,228,297,508,973,1081,563,539,304,385
+"2020","Total","Place of residence unknown",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2020","Total","Place of residence outside of Estonia",356,29,22,15,7,16,23,38,46,52,44,27,37
+"2020","Total","Place of residence in Estonia",5737,290,568,291,221,281,485,935,1035,511,495,277,348
+"2020","Total","Harju county",2978,191,277,169,106,124,238,496,524,300,242,138,173
+"2020","Total","..Tallinn",2210,155,208,128,85,90,180,365,379,210,184,96,130
+"2020","Total","Hiiu county",46,1,5,4,3,1,4,6,13,1,3,2,3
+"2020","Total","Ida-Viru county",565,33,63,25,31,18,40,80,85,55,58,36,41
+"2020","Total","Jõgeva county",100,3,9,10,3,5,10,12,15,8,11,7,7
+"2020","Total","Järva county",105,3,10,8,1,0,10,21,25,7,9,7,4
+"2020","Total","Lääne county",76,2,9,1,3,8,11,14,11,4,8,1,4
+"2020","Total","Lääne-Viru county",217,7,23,7,6,9,20,41,46,16,16,11,15
+"2020","Total","Põlva county",81,3,4,4,4,9,11,13,9,6,6,3,9
+"2020","Total","Pärnu county",309,7,33,8,12,16,27,51,68,30,22,16,19
+"2020","Total","Rapla county",143,6,20,8,9,6,15,26,27,7,6,7,6
+"2020","Total","Saare county",134,6,12,4,3,14,6,17,38,8,11,4,11
+"2020","Total","Tartu county",609,11,69,26,29,51,65,100,104,40,59,26,29
+"2020","Total","Valga county",94,8,12,2,5,4,6,12,17,8,10,0,10
+"2020","Total","Viljandi county",158,5,10,8,4,9,14,28,31,9,17,12,11
+"2020","Total","Võru county",99,2,11,4,2,6,4,16,19,9,15,5,6
+"2020","Total","Place of residence in Estonia unknown",23,2,1,3,0,1,4,2,3,3,2,2,0
+"2020","City and town settlement region","Total",4132,245,415,213,152,182,345,669,725,390,364,194,238
+"2020","City and town settlement region","Place of residence unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2020","City and town settlement region","Place of residence outside of Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2020","City and town settlement region","Place of residence in Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2020","City and town settlement region","Harju county",2659,181,254,152,99,106,213,442,461,263,216,120,152
+"2020","City and town settlement region","..Tallinn",2210,155,208,128,85,90,180,365,379,210,184,96,130
+"2020","City and town settlement region","Hiiu county",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2020","City and town settlement region","Ida-Viru county",462,30,46,21,25,14,31,66,75,47,46,31,30
+"2020","City and town settlement region","Jõgeva county",12,1,0,2,1,1,1,0,1,0,5,0,0
+"2020","City and town settlement region","Järva county",52,2,5,3,0,0,5,7,17,2,5,4,2
+"2020","City and town settlement region","Lääne county",38,1,2,1,1,2,7,8,5,2,5,1,3
+"2020","City and town settlement region","Lääne-Viru county",67,2,8,1,1,1,9,11,13,5,5,4,7
+"2020","City and town settlement region","Põlva county",11,1,1,0,1,1,2,2,2,1,0,0,0
+"2020","City and town settlement region","Pärnu county",191,7,20,5,8,10,18,35,43,19,14,4,8
+"2020","City and town settlement region","Rapla county",22,0,2,0,0,4,2,4,3,1,1,2,3
+"2020","City and town settlement region","Saare county",49,3,6,2,0,7,3,7,12,1,2,2,4
+"2020","City and town settlement region","Tartu county",419,9,51,22,13,29,44,67,69,34,44,19,18
+"2020","City and town settlement region","Valga county",47,6,9,1,1,2,3,2,6,6,5,0,6
+"2020","City and town settlement region","Viljandi county",74,2,8,3,2,4,5,14,11,4,10,7,4
+"2020","City and town settlement region","Võru county",29,0,3,0,0,1,2,4,7,5,6,0,1
+"2020","City and town settlement region","Place of residence in Estonia unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2020","Rural settlement region","Total",1582,43,152,75,69,98,136,264,307,118,129,81,110
+"2020","Rural settlement region","Place of residence unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2020","Rural settlement region","Place of residence outside of Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2020","Rural settlement region","Place of residence in Estonia",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2020","Rural settlement region","Harju county",319,10,23,17,7,18,25,54,63,37,26,18,21
+"2020","Rural settlement region","..Tallinn",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2020","Rural settlement region","Hiiu county",46,1,5,4,3,1,4,6,13,1,3,2,3
+"2020","Rural settlement region","Ida-Viru county",103,3,17,4,6,4,9,14,10,8,12,5,11
+"2020","Rural settlement region","Jõgeva county",88,2,9,8,2,4,9,12,14,8,6,7,7
+"2020","Rural settlement region","Järva county",53,1,5,5,1,0,5,14,8,5,4,3,2
+"2020","Rural settlement region","Lääne county",38,1,7,0,2,6,4,6,6,2,3,0,1
+"2020","Rural settlement region","Lääne-Viru county",150,5,15,6,5,8,11,30,33,11,11,7,8
+"2020","Rural settlement region","Põlva county",70,2,3,4,3,8,9,11,7,5,6,3,9
+"2020","Rural settlement region","Pärnu county",118,0,13,3,4,6,9,16,25,11,8,12,11
+"2020","Rural settlement region","Rapla county",121,6,18,8,9,2,13,22,24,6,5,5,3
+"2020","Rural settlement region","Saare county",85,3,6,2,3,7,3,10,26,7,9,2,7
+"2020","Rural settlement region","Tartu county",190,2,18,4,16,22,21,33,35,6,15,7,11
+"2020","Rural settlement region","Valga county",47,2,3,1,4,2,3,10,11,2,5,0,4
+"2020","Rural settlement region","Viljandi county",84,3,2,5,2,5,9,14,20,5,7,5,7
+"2020","Rural settlement region","Võru county",70,2,8,4,2,5,2,12,12,4,9,5,5
+"2020","Rural settlement region","Place of residence in Estonia unknown",.,.,.,.,.,.,.,.,.,.,.,.,.
+"2021","Total","Total",6396,301,304,350,345,432,653,1145,979,562,484,409,432
+"2021","Total","Place of residence unknown",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2021","Total","Place of residence outside of Estonia",206,15,7,15,7,8,13,30,30,17,22,15,27
+"2021","Total","Place of residence in Estonia",5994,277,287,321,317,417,621,1090,921,528,441,380,394
+"2021","Total","Harju county",3152,176,145,171,160,215,321,547,503,310,216,194,194
+"2021","Total","..Tallinn",2366,133,109,138,132,156,233,396,369,240,163,147,150
+"2021","Total","Hiiu county",29,0,2,0,4,2,2,8,5,2,0,1,3
+"2021","Total","Ida-Viru county",647,32,37,45,48,35,67,83,78,71,57,46,48
+"2021","Total","Jõgeva county",96,3,6,1,3,6,13,17,16,9,7,9,6
+"2021","Total","Järva county",118,6,4,3,9,13,13,22,16,7,11,6,8
+"2021","Total","Lääne county",64,1,4,2,4,4,6,12,9,5,4,7,6
+"2021","Total","Lääne-Viru county",201,7,9,16,11,9,17,46,26,12,19,17,12
+"2021","Total","Põlva county",74,1,3,6,1,3,12,18,12,4,5,5,4
+"2021","Total","Pärnu county",286,8,12,8,12,28,26,61,49,18,18,15,31
+"2021","Total","Rapla county",131,2,6,7,8,15,13,27,27,9,5,7,5
+"2021","Total","Saare county",129,3,5,7,7,10,11,32,22,7,11,4,10
+"2021","Total","Tartu county",693,25,33,34,34,52,89,152,103,48,50,34,39
+"2021","Total","Valga county",110,2,3,8,3,4,10,23,10,10,17,13,7
+"2021","Total","Viljandi county",157,10,10,5,7,11,14,25,22,10,16,13,14
+"2021","Total","Võru county",107,1,8,8,6,10,7,17,23,6,5,9,7
+"2021","Total","Place of residence in Estonia unknown",196,9,10,14,21,7,19,25,28,17,21,14,11
+"2021","City and town settlement region","Total",4428,228,205,240,242,299,448,800,663,417,324,279,283
+"2021","City and town settlement region","Place of residence unknown",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2021","City and town settlement region","Place of residence outside of Estonia",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2021","City and town settlement region","Place of residence in Estonia",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2021","City and town settlement region","Harju county",2856,158,132,158,154,194,282,499,443,284,201,173,178
+"2021","City and town settlement region","..Tallinn",2366,133,109,138,132,156,233,396,369,240,163,147,150
+"2021","City and town settlement region","Hiiu county",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2021","City and town settlement region","Ida-Viru county",543,28,28,37,43,30,55,76,61,60,48,41,36
+"2021","City and town settlement region","Jõgeva county",0,0,2,0,0,2,4,4,5,2,0,2,2
+"2021","City and town settlement region","Järva county",0,3,0,2,3,4,9,9,8,1,4,3,2
+"2021","City and town settlement region","Lääne county",0,1,1,0,1,1,2,5,3,5,2,4,3
+"2021","City and town settlement region","Lääne-Viru county",63,1,3,6,5,1,7,12,8,4,7,5,4
+"2021","City and town settlement region","Põlva county",0,1,0,0,0,0,4,3,2,2,1,1,2
+"2021","City and town settlement region","Pärnu county",158,6,7,3,6,20,11,34,28,9,12,9,13
+"2021","City and town settlement region","Rapla county",0,1,0,1,0,1,3,6,3,1,1,1,1
+"2021","City and town settlement region","Saare county",0,2,2,0,2,3,6,17,10,4,5,3,6
+"2021","City and town settlement region","Tartu county",475,20,24,22,20,35,56,111,71,34,29,26,27
+"2021","City and town settlement region","Valga county",0,0,1,6,1,0,2,10,6,6,6,4,3
+"2021","City and town settlement region","Viljandi county",59,6,4,3,4,3,4,10,7,3,7,5,3
+"2021","City and town settlement region","Võru county",35,1,1,2,3,5,3,4,8,2,1,2,3
+"2021","City and town settlement region","Place of residence in Estonia unknown",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2021","Rural settlement region","Total",1566,49,82,81,75,118,173,290,258,111,117,101,111
+"2021","Rural settlement region","Place of residence unknown",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2021","Rural settlement region","Place of residence outside of Estonia",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2021","Rural settlement region","Place of residence in Estonia",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2021","Rural settlement region","Harju county",296,18,13,13,6,21,39,48,60,26,15,21,16
+"2021","Rural settlement region","..Tallinn",0,0,0,0,0,0,0,0,0,0,0,0,0
+"2021","Rural settlement region","Hiiu county",0,0,2,0,4,2,2,8,5,2,0,1,3
+"2021","Rural settlement region","Ida-Viru county",104,4,9,8,5,5,12,7,17,11,9,5,12
+"2021","Rural settlement region","Jõgeva county",73,3,4,1,3,4,9,13,11,7,7,7,4
+"2021","Rural settlement region","Järva county",70,3,4,1,6,9,4,13,8,6,7,3,6
+"2021","Rural settlement region","Lääne county",0,0,3,2,3,3,4,7,6,0,2,3,3
+"2021","Rural settlement region","Lääne-Viru county",138,6,6,10,6,8,10,34,18,8,12,12,8
+"2021","Rural settlement region","Põlva county",0,0,3,6,1,3,8,15,10,2,4,4,2
+"2021","Rural settlement region","Pärnu county",128,2,5,5,6,8,15,27,21,9,6,6,18
+"2021","Rural settlement region","Rapla county",112,1,6,6,8,14,10,21,24,8,4,6,4
+"2021","Rural settlement region","Saare county",69,1,3,7,5,7,5,15,12,3,6,1,4
+"2021","Rural settlement region","Tartu county",218,5,9,12,14,17,33,41,32,14,21,8,12
+"2021","Rural settlement region","Valga county",65,2,2,2,2,4,8,13,4,4,11,9,4
+"2021","Rural settlement region","Viljandi county",98,4,6,2,3,8,10,15,15,7,9,8,11
+"2021","Rural settlement region","Võru county",0,0,7,6,3,5,4,13,15,4,4,7,4
+"2021","Rural settlement region","Place of residence in Estonia unknown",0,0,0,0,0,0,0,0,0,0,0,0,0
