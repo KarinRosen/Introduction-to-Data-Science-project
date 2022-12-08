@@ -1,5 +1,3 @@
-﻿"RV272U: ABIELLUJAD | Aasta, Sugu, Asustuspiirkonna liik, Elukoht ning Vanuserühm"
-
 "Aasta","Sugu","Asustuspiirkonna liik","Elukoht","15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75 ja vanemad"
 "2017","Mehed","Linnaline ja väikelinnaline asustuspiirkond","Harju maakond",10,188,700,767,477,267,171,111,74,50,22,8,10
 "2017","Mehed","Linnaline ja väikelinnaline asustuspiirkond","..Tallinn",10,174,610,655,386,211,134,94,60,42,17,7,9
@@ -18,7 +16,6 @@
 "2017","Mehed","Linnaline ja väikelinnaline asustuspiirkond","Viljandi maakond",0,3,5,12,11,5,8,2,4,1,1,0,0
 "2017","Mehed","Linnaline ja väikelinnaline asustuspiirkond","Võru maakond",0,2,10,15,6,7,2,0,2,3,0,0,1
 "2017","Mehed","Maaline asustuspiirkond","Harju maakond",0,16,57,68,64,50,26,21,7,8,3,0,1
-"2017","Mehed","Maaline asustuspiirkond","..Tallinn",.,.,.,.,.,.,.,.,.,.,.,.,.
 "2017","Mehed","Maaline asustuspiirkond","Hiiu maakond",0,2,7,8,2,3,5,1,0,0,1,0,0
 "2017","Mehed","Maaline asustuspiirkond","Ida-Viru maakond",0,9,17,22,18,14,4,1,4,3,3,0,0
 "2017","Mehed","Maaline asustuspiirkond","Jõgeva maakond",2,10,22,16,9,3,6,1,6,0,0,0,0
@@ -50,7 +47,6 @@
 "2017","Naised","Linnaline ja väikelinnaline asustuspiirkond","Viljandi maakond",0,4,12,15,14,3,3,2,1,1,0,0,0
 "2017","Naised","Linnaline ja väikelinnaline asustuspiirkond","Võru maakond",0,7,14,7,5,2,2,0,5,1,0,0,0
 "2017","Naised","Maaline asustuspiirkond","Harju maakond",4,22,74,64,61,23,18,7,5,1,1,0,1
-"2017","Naised","Maaline asustuspiirkond","..Tallinn",.,.,.,.,.,.,.,.,.,.,.,.,.
 "2017","Naised","Maaline asustuspiirkond","Hiiu maakond",0,2,12,6,6,1,1,1,0,0,0,0,0
 "2017","Naised","Maaline asustuspiirkond","Ida-Viru maakond",1,14,19,15,15,5,7,3,2,3,0,0,0
 "2017","Naised","Maaline asustuspiirkond","Jõgeva maakond",3,11,13,15,4,7,3,2,1,0,0,0,0
@@ -82,7 +78,6 @@
 "2018","Mehed","Linnaline ja väikelinnaline asustuspiirkond","Viljandi maakond",2,2,13,9,8,4,6,0,0,0,1,1,0
 "2018","Mehed","Linnaline ja väikelinnaline asustuspiirkond","Võru maakond",0,4,13,12,6,6,5,1,1,0,0,1,0
 "2018","Mehed","Maaline asustuspiirkond","Harju maakond",0,20,63,81,49,47,24,18,10,1,0,1,3
-"2018","Mehed","Maaline asustuspiirkond","..Tallinn",0,0,0,0,0,0,0,0,0,0,0,0,0
 "2018","Mehed","Maaline asustuspiirkond","Hiiu maakond",0,2,8,9,6,5,4,2,0,0,0,1,2
 "2018","Mehed","Maaline asustuspiirkond","Ida-Viru maakond",0,13,18,24,7,12,9,8,5,5,1,1,0
 "2018","Mehed","Maaline asustuspiirkond","Jõgeva maakond",1,6,30,18,10,7,9,6,3,1,0,1,0
@@ -114,7 +109,6 @@
 "2018","Naised","Linnaline ja väikelinnaline asustuspiirkond","Viljandi maakond",2,7,9,8,8,11,5,2,3,1,0,0,0
 "2018","Naised","Linnaline ja väikelinnaline asustuspiirkond","Võru maakond",1,9,20,7,2,4,3,2,1,0,0,1,0
 "2018","Naised","Maaline asustuspiirkond","Harju maakond",8,27,73,70,50,24,16,12,5,0,2,0,0
-"2018","Naised","Maaline asustuspiirkond","..Tallinn",.,.,.,.,.,.,.,.,.,.,.,.,.
 "2018","Naised","Maaline asustuspiirkond","Hiiu maakond",0,1,8,2,3,1,4,0,0,1,1,0,1
 "2018","Naised","Maaline asustuspiirkond","Ida-Viru maakond",3,13,19,17,10,11,13,3,0,3,0,0,0
 "2018","Naised","Maaline asustuspiirkond","Jõgeva maakond",2,9,23,12,5,5,6,6,2,1,0,0,0
@@ -146,7 +140,6 @@
 "2019","Mehed","Linnaline ja väikelinnaline asustuspiirkond","Viljandi maakond",0,1,10,14,16,7,3,5,1,1,0,0,0
 "2019","Mehed","Linnaline ja väikelinnaline asustuspiirkond","Võru maakond",0,3,6,12,6,4,0,2,0,1,2,0,0
 "2019","Mehed","Maaline asustuspiirkond","Harju maakond",0,16,63,73,75,48,39,17,16,14,1,1,1
-"2019","Mehed","Maaline asustuspiirkond","..Tallinn",0,0,0,0,0,0,0,0,0,0,0,0,0
 "2019","Mehed","Maaline asustuspiirkond","Hiiu maakond",0,0,10,8,10,5,5,2,3,1,0,0,0
 "2019","Mehed","Maaline asustuspiirkond","Ida-Viru maakond",0,11,19,28,17,10,16,8,5,4,1,1,0
 "2019","Mehed","Maaline asustuspiirkond","Jõgeva maakond",1,2,19,24,14,11,6,3,6,2,1,0,0
@@ -178,7 +171,6 @@
 "2019","Naised","Linnaline ja väikelinnaline asustuspiirkond","Viljandi maakond",0,6,18,17,14,9,7,2,2,2,0,0,0
 "2019","Naised","Linnaline ja väikelinnaline asustuspiirkond","Võru maakond",1,4,8,11,6,5,1,0,1,2,0,0,0
 "2019","Naised","Maaline asustuspiirkond","Harju maakond",6,31,65,71,55,28,25,17,7,6,0,0,1
-"2019","Naised","Maaline asustuspiirkond","..Tallinn",.,.,.,.,.,.,.,.,.,.,.,.,.
 "2019","Naised","Maaline asustuspiirkond","Hiiu maakond",0,0,12,7,1,4,0,2,3,0,0,0,0
 "2019","Naised","Maaline asustuspiirkond","Ida-Viru maakond",4,16,21,12,10,14,8,4,4,1,1,0,0
 "2019","Naised","Maaline asustuspiirkond","Jõgeva maakond",1,10,21,16,11,2,3,4,1,2,1,0,0
@@ -210,7 +202,6 @@
 "2020","Mehed","Linnaline ja väikelinnaline asustuspiirkond","Viljandi maakond",0,5,13,17,13,6,10,4,3,0,2,1,0
 "2020","Mehed","Linnaline ja väikelinnaline asustuspiirkond","Võru maakond",0,0,8,6,9,3,0,2,0,0,1,0,0
 "2020","Mehed","Maaline asustuspiirkond","Harju maakond",0,15,50,66,70,41,34,17,16,5,2,1,2
-"2020","Mehed","Maaline asustuspiirkond","..Tallinn",0,0,0,0,0,0,0,0,0,0,0,0,0
 "2020","Mehed","Maaline asustuspiirkond","Hiiu maakond",0,2,9,11,5,4,8,5,2,0,0,0,0
 "2020","Mehed","Maaline asustuspiirkond","Ida-Viru maakond",0,9,25,26,12,12,9,5,1,2,1,1,0
 "2020","Mehed","Maaline asustuspiirkond","Jõgeva maakond",0,7,16,19,14,6,13,5,6,0,1,1,0
@@ -242,7 +233,6 @@
 "2020","Naised","Linnaline ja väikelinnaline asustuspiirkond","Viljandi maakond",1,4,20,19,7,5,8,1,1,1,0,1,1
 "2020","Naised","Linnaline ja väikelinnaline asustuspiirkond","Võru maakond",1,4,5,13,3,1,3,1,0,1,0,0,0
 "2020","Naised","Maaline asustuspiirkond","Harju maakond",11,29,51,77,43,34,20,13,5,1,1,0,0
-"2020","Naised","Maaline asustuspiirkond","..Tallinn",0,0,0,0,0,0,0,0,0,0,0,0,0
 "2020","Naised","Maaline asustuspiirkond","Hiiu maakond",0,4,10,7,4,5,3,5,1,0,0,0,0
 "2020","Naised","Maaline asustuspiirkond","Ida-Viru maakond",0,14,15,17,13,9,3,4,2,0,1,0,0
 "2020","Naised","Maaline asustuspiirkond","Jõgeva maakond",0,7,18,16,5,7,8,4,3,0,0,0,1
@@ -274,7 +264,6 @@
 "2021","Mehed","Linnaline ja väikelinnaline asustuspiirkond","Viljandi maakond",0,1,13,16,7,7,6,4,3,2,0,0,0
 "2021","Mehed","Linnaline ja väikelinnaline asustuspiirkond","Võru maakond",0,3,5,10,8,0,5,2,0,1,0,1,0
 "2021","Mehed","Maaline asustuspiirkond","Harju maakond",1,11,39,72,62,39,26,19,15,5,5,1,1
-"2021","Mehed","Maaline asustuspiirkond","..Tallinn",0,0,0,0,0,0,0,0,0,0,0,0,0
 "2021","Mehed","Maaline asustuspiirkond","Hiiu maakond",0,2,5,4,6,5,0,2,3,1,1,0,0
 "2021","Mehed","Maaline asustuspiirkond","Ida-Viru maakond",1,14,15,18,13,11,10,7,3,5,6,1,0
 "2021","Mehed","Maaline asustuspiirkond","Jõgeva maakond",0,3,12,18,14,10,7,2,4,0,3,0,0
@@ -306,7 +295,6 @@
 "2021","Naised","Linnaline ja väikelinnaline asustuspiirkond","Viljandi maakond",0,3,14,20,4,6,3,2,1,1,0,0,0
 "2021","Naised","Linnaline ja väikelinnaline asustuspiirkond","Võru maakond",1,1,8,7,6,4,3,1,1,0,0,0,0
 "2021","Naised","Maaline asustuspiirkond","Harju maakond",3,30,54,66,47,38,19,10,5,2,0,3,1
-"2021","Naised","Maaline asustuspiirkond","..Tallinn",.,.,.,.,.,.,.,.,.,.,.,.,.
 "2021","Naised","Maaline asustuspiirkond","Hiiu maakond",0,3,0,7,2,4,0,1,3,0,0,0,0
 "2021","Naised","Maaline asustuspiirkond","Ida-Viru maakond",6,9,9,12,9,12,5,5,4,1,3,0,0
 "2021","Naised","Maaline asustuspiirkond","Jõgeva maakond",1,3,15,19,9,4,6,1,1,2,1,0,0
